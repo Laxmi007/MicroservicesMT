@@ -1,0 +1,6 @@
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.OrderAPI.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.OrderAPI.RazorAssemblyInfo.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.OrderAPI.RazorAssemblyInfo.cs
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.OrderAPI.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.OrderAPI\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.OrderAPI.AssemblyInfo.cs

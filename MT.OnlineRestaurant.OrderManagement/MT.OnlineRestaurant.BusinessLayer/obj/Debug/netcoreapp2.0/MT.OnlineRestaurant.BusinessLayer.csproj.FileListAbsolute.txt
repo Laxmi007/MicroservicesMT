@@ -1,0 +1,4 @@
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vmadmin\source\repos\MT.OnlineRestaurant.OrderManagement\MT.OnlineRestaurant.BusinessLayer\obj\Debug\netcoreapp2.0\MT.OnlineRestaurant.BusinessLayer.AssemblyInfo.cs
